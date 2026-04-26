@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  paddin: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  display: flex;
+  flex-directio: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: black
+}
+
+#canvas {
+  border: 2px solid blue;
+}
